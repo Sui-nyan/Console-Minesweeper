@@ -1,0 +1,3 @@
+C:/Users/Shira/Nextcloud/Shared_with_me/ez018/exc4/cmake-build-debug/CMakeFiles/exc4.dir
+C:/Users/Shira/Nextcloud/Shared_with_me/ez018/exc4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Shira/Nextcloud/Shared_with_me/ez018/exc4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
